@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Clock, ShieldCheck, HeartPulse, ChevronRight, HelpCircle } from 'lucide-react';
+import { Clock, ShieldCheck, HeartPulse, ChevronRight, HelpCircle, Activity } from 'lucide-react';
 import SEO from '../components/common/SEO';
 import { TREATMENTS_DATA } from '../constants/data';
 
